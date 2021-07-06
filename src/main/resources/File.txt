@@ -1,0 +1,1 @@
+Entity{name='Michael', surname='Kebede', age=26, mail='michaelkebede01@gmail.com', password='kebede634512', role=ADMIN}Entity{name='Sonya', surname='Lisovskaya', age=19, mail='sonyalisovskaya11221@gmail.com', password='s1o2n3y4a5', role=USER}
